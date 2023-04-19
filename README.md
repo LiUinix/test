@@ -6,7 +6,7 @@ github加速神器，解决github打不开、用户头像无法加载、releases
 * **fastgithub不支持Windows7等已被发行方停止支持的操作系统，并且也不会主动提供支持**
 * **fastgithub不能为您的游戏加速**
 * **fastgithub没有主动在github之外的任何渠道发布**
-  
+  1
 ### 2 部署方式
 #### 2.1 windows-x64桌面
 * 双击运行FastGithub.UI.exe 
